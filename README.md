@@ -5,7 +5,7 @@ Custom layout created using the
 
 ## New combinations
 
-* `AltGr + ' => \``
+* `` AltGr + ' => ` ``
 * `AltGr + ì => ~`
 
 ## Installation
