@@ -20,7 +20,7 @@ Layout personalizzato creato con il tool
 
 ## Nuove combinazioni
 
-* `AltGr + ' => \``
+* `` AltGr + ' => ` ``
 * `AltGr + ì => ~`
 
 ## Installazione
